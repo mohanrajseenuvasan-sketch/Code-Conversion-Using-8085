@@ -1,6 +1,6 @@
 # Code-Conversion-Using-8085
-# NAME: GOKUL PRASAD H
-# REG NO: 212224050011
+# NAME: MOHANRAJ S
+# REG NO: 212224050021
 
 ## Aim:
 
